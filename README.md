@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -52,3 +53,7 @@ export default tseslint.config({
   },
 })
 ```
+=======
+# todo-app
+Boost your productivity with this minimal yet powerful task tracker built using React, TypeScript, and Material UI. Manage, filter, and complete tasks with ease.
+>>>>>>> 44454cd45a259aafb7babc86643276651e98d136
